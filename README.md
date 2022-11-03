@@ -1,0 +1,2 @@
+# redesigned-guide
+c++ projekts
