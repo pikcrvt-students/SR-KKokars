@@ -1,0 +1,3 @@
+C:/Users/daini/Desktop/speedrunner/cmake-build-debug/CMakeFiles/speedrunner.dir
+C:/Users/daini/Desktop/speedrunner/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daini/Desktop/speedrunner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
