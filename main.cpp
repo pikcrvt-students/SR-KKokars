@@ -27,7 +27,7 @@ int main() {
                         else
                             map[x][y] = '#';
                     }
-                    else if (rand() % 60 - level <= spike_chance && (x != 1 || y != 11) && (x != 19 || y != 10))
+                    else if (rand() % 60 - level <= spike_chance && (x != 1 || y != 10) && (x != 19 || y != 10))
                         map[x][y] = '/';
 
                     else if (rand() % 100 - level <= 3)
