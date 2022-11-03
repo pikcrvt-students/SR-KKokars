@@ -1,2 +1,3 @@
-# redesigned-guide
-c++ projekts
+Spēle "SpeedRunner"
+c++ projekts ;)
+
